@@ -1,17 +1,32 @@
 Date,Station_Index_Number,Maximum Temperature (°C),Minimum Temperature (°C),Rainfall (mm)
+10.12.2022,Thiruvananthapuram City (43371),29.6,23.2,trace
+10.12.2022,Thiruvananthapuram Airport (43372),30.2,23.8,trace
+10.12.2022,Punalur (43354),30.0,18.5,24.0
+10.12.2022,Alappuzha (43352),32.2,24.2,0.0
+10.12.2022,Kottayam (43355),30.5,21.0,0.0
+10.12.2022,Kochi Airport (43353),28.8,22.2,0.0
+10.12.2022,CIAL Kochi (43336),28.5,21.1,0.1
+10.12.2022,Vellanikkara (43357),29.5,21.0,0.3
+10.12.2022,Palakkad (43335),27.0,21.8,0.7
+10.12.2022,Karipur Airport (43320),28.2,22.7,1.0
+10.12.2022,Kozhikode City (43314),31.6,23.8,0.2
+10.12.2022,Kannur (43315),31.4,23.5,trace
+10.12.2022,Agathi Airport (43266),31.4,27.0,0.0
+10.12.2022,Amini (43311),33.6,25.2,0.0
+10.12.2022,Minicoy (43369),31.7,25.8,0.0
 09.12.2022,Thiruvananthapuram City (43371),29.5,24.2,0.2
-09.12.2022,Thiruvananthapuram Airport (43372),30.0,24.2,tr
+09.12.2022,Thiruvananthapuram Airport (43372),30,24.2,tr
 09.12.2022,Punalur (43354),30.5,20.5,tr
-09.12.2022,Alappuzha (43352),32.0,24.0,0.0
-09.12.2022,Kottayam (43355),32.0,23.6,0.0
-09.12.2022,Kochi Airport (43353),30.0,25.2,0.0
+09.12.2022,Alappuzha (43352),32,24,0.0
+09.12.2022,Kottayam (43355),32,23.6,0.0
+09.12.2022,Kochi Airport (43353),30,25.2,0.0
 09.12.2022,CIAL Kochi (43336),31.2,21.6,tr
 09.12.2022,Vellanikkara (43357),31.4,23.4,0.0
 09.12.2022,Palakkad (43335),31.2,23.2,1.2
-09.12.2022,Karipur Airport (43320),30.2,22.0,tr
+09.12.2022,Karipur Airport (43320),30.2,22,tr
 09.12.2022,Kozhikode City (43314),32.6,24.6,0.0
-09.12.2022,Kannur (43315),31.6,23.0,tr
-09.12.2022,Agathi Airport (43266),31.0,27.2,0.0
+09.12.2022,Kannur (43315),31.6,23,tr
+09.12.2022,Agathi Airport (43266),31,27.2,0.0
 09.12.2022,Amini (43311),32.8,24.6,0.0
 09.12.2022,Minicoy (43369),31.6,25.7,0.0
 08.12.2022,Thiruvananthapuram City (43371),31.3,24.2,0.0
